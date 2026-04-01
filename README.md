@@ -1,5 +1,5 @@
 # Rpadi_Wheat-Diet_LD-DD_Analysis
-Knitted R Markdown files that were used for dryR-based analysis of diurnal and circadian transcriptomic rhythms in R. padi across host plant and artificial diet conditions. Additionally, dryR rhythmicity and OmicsBox functional enrichment analysis scripts are also provided. 
+Knitted R Markdown files (.docx) that were used for dryR-based analysis of diurnal and circadian transcriptomic rhythms in R. padi across host plant and artificial diet conditions. Additionally, dryR rhythmicity and OmicsBox functional enrichment analysis scripts are also provided. 
 
 The raw sequencing data used in this study can be found at the BioProject accession PRJNA1413204.
 
