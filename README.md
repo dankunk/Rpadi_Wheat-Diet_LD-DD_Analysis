@@ -7,4 +7,4 @@ The raw sequencing data was analyzed and quantified using salmon. The exact pipe
 
 Additional tools for promoter analysis were utilized and can be found at the repository: **Rhythmic promoter analysis tools** https://github.com/dankunk/rhythmicpromoteranalysis
 
-Full output data for this study can be found at the associated figshare link: (PUBLIC LINK TBD)
+Full output data for this study can be found at the associated zenodo link: (PUBLIC LINK TBD)
